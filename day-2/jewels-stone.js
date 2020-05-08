@@ -19,5 +19,4 @@ var numJewelsInStones = function (J, S) {
     return count;
 };
 
-console.time("1");
 console.log(numJewelsInStones("aA", "aAAbbbb"));
